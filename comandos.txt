@@ -1,0 +1,23 @@
+git clone
+git status
+git add
+git commit
+git pull
+git fetch
+git push --set-upstream origin master
+git push
+git log
+git log --pretty=oneline
+git log --pretty=fuller
+git log --pretty=short
+git log --pretty=format:"%h %an"
+git remote
+git remote add origin repositorio
+git remote rm origin
+git branch
+git branch <nome_branch>
+git checkout <branch>
+git tag <nome_tag> <hash_commit>
+git push origin master --tags
+git tag -d :refs/origin/<nome_tag>
+
