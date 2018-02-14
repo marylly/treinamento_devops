@@ -1,0 +1,21 @@
+git log --pretty=oneline
+f2b5f1745c655c29b78c1fa325bea4dc1556b4d8 (HEAD -> master, tag: final-aula, origin/master, origin/aula, origin/HEAD) Comandos aprendidos.
+1082243b5113a06797f869ce36d0bd79bc142b34 Step 2 of Training Class.
+f9a31e6613d780e50915916ffdd0dca4c89c1ea7 Merge branch 'aula'
+db2469faf8d08052876d6de76b46972ab135ed69 Um novo arquivo
+f9b49d74f681d6e454748eaf6b5c38e9e31114f8 Removendo o strigus.
+938bc730c9e0713e6b4acaf50d3a78a94e4a7be4 Esse é a msg errada.
+a4af29f72a1db5d23b02746c5a351c79eac6207f Initial commit
+7b186aae0ebb7f0a2037a3e179bcc430a01ebd94 Create README.md
+
+git log --pretty=format:"%h %an %ae"
+f2b5f17 Marylly Silva mymarylly@gmail.com
+1082243 Marylly Silva mymarylly@gmail.com
+f9a31e6 Marylly Silva mymarylly@gmail.com
+db2469f Marylly Silva mymarylly@gmail.com
+f9b49d7 Marylly Silva mymarylly@gmail.com
+938bc73 Marylly Silva mymarylly@gmail.com
+a4af29f Marylly Silva mymarylly@gmail.com
+7b186aa Marylly mymarylly@gmail.com
+
+
